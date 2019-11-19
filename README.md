@@ -1,1 +1,3 @@
 # 102-week-12
+
+Here's something for the first commit to make sure I remember how to push...
